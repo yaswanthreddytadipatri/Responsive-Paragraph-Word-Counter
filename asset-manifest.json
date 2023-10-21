@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Responsive-Paragraph-Word-Counter/static/css/main.e6c13ad2.css",
+    "main.js": "/Responsive-Paragraph-Word-Counter/static/js/main.bffcca50.js",
+    "static/js/787.b755f208.chunk.js": "/Responsive-Paragraph-Word-Counter/static/js/787.b755f208.chunk.js",
+    "index.html": "/Responsive-Paragraph-Word-Counter/index.html",
+    "main.e6c13ad2.css.map": "/Responsive-Paragraph-Word-Counter/static/css/main.e6c13ad2.css.map",
+    "main.bffcca50.js.map": "/Responsive-Paragraph-Word-Counter/static/js/main.bffcca50.js.map",
+    "787.b755f208.chunk.js.map": "/Responsive-Paragraph-Word-Counter/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bffcca50.js"
+  ]
+}
